@@ -13,5 +13,27 @@ header {
     font-size: 18px;
     line-height: 23px;
     /* identical to box height */
-    text-align: center;
+}
+
+header nav ul {
+    display: none;
+}
+
+header nav img {
+    display: block;
+    left: calc(50% - 26.4px/2 - 119.8px);
+    top: 18.04px;
+    height: 20.96px;
+}
+
+button.primary {
+    background: #0688FA;
+    color: white;
+    border: 2px solid white;
+}
+  
+button.secondary {
+    border: 2px solid #0688FA;
+    color: #0688FA;
+    background: white;
 }
