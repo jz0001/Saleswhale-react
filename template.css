@@ -27,13 +27,12 @@ header nav img {
 }
 
 button.primary {
-    background: #0688FA;
     color: white;
-    border: 2px solid white;
+    background: #0688FA;
 }
   
 button.secondary {
-    border: 2px solid #0688FA;
     color: #0688FA;
     background: white;
+    border: 1px solid #0688FA;
 }
