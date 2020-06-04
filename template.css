@@ -1,5 +1,5 @@
 body {
-    font-family: Source Sans Pro;
+    font-family: "Source Sans Pro";
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -55,13 +55,17 @@ button.secondary {
     left: 24px;
     top: 397px;
 
-    font-family: Source Sans Pro;
-    font-style: normal;
     font-weight: bold;
     font-size: 32px;
     line-height: 100%;
 }
 
 .intro p {
+    position: absolute;
+    width: 270px;
+    height: 608px;
+    left: 26px;
+    top: 528px;
 
+    line-height: 24px;
 }
