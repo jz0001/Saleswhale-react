@@ -20,8 +20,9 @@ header nav ul {
 }
 
 header nav img {
+    position: absolute;
     display: block;
-    left: calc(50% - 26.4px/2 - 119.8px);
+    left: 26px;
     top: 18.04px;
     height: 20.96px;
 }
@@ -35,4 +36,14 @@ button.secondary {
     color: #0688FA;
     background: white;
     border: 1px solid #0688FA;
+}
+
+.hero {
+    position: absolute;
+    width: 268px;
+    height: 296px;
+    left: 26px;
+    top: 76px;
+    background-position: center center;
+    background-repeat: no-repeat;
 }
