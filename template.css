@@ -85,14 +85,14 @@ button.secondary {
     margin-bottom: 80px;
     padding: 40px;
     margin: 80px */
-    /* position: static;
+    position: static;
     width: 320px;
     height: 1051px;
     left: 0px;
-    top: 1134px; */
+    top: 1134px;
 }
 
-/* .culture h2 {
+.culture h2 {
     position: absolute;
     width: 270px;
     height: 38px;
@@ -104,4 +104,4 @@ button.secondary {
     font-weight: bold;
     font-size: 28px;
     line-height: 110%;
-} */
+}
